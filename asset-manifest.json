@@ -1,20 +1,32 @@
 {
   "files": {
     "main.css": "/LightShop/static/css/main.2ae47eeb.chunk.css",
-    "main.js": "/LightShop/static/js/main.85d0ea40.chunk.js",
-    "main.js.map": "/LightShop/static/js/main.85d0ea40.chunk.js.map",
+    "main.js": "/LightShop/static/js/main.73b83dcb.chunk.js",
+    "main.js.map": "/LightShop/static/js/main.73b83dcb.chunk.js.map",
     "runtime-main.js": "/LightShop/static/js/runtime-main.cb52775e.js",
     "runtime-main.js.map": "/LightShop/static/js/runtime-main.cb52775e.js.map",
-    "static/js/2.d426c3b8.chunk.js": "/LightShop/static/js/2.d426c3b8.chunk.js",
-    "static/js/2.d426c3b8.chunk.js.map": "/LightShop/static/js/2.d426c3b8.chunk.js.map",
+    "static/js/2.ff775b33.chunk.js": "/LightShop/static/js/2.ff775b33.chunk.js",
+    "static/js/2.ff775b33.chunk.js.map": "/LightShop/static/js/2.ff775b33.chunk.js.map",
     "index.html": "/LightShop/index.html",
     "static/css/main.2ae47eeb.chunk.css.map": "/LightShop/static/css/main.2ae47eeb.chunk.css.map",
-    "static/js/2.d426c3b8.chunk.js.LICENSE.txt": "/LightShop/static/js/2.d426c3b8.chunk.js.LICENSE.txt"
+    "static/js/2.ff775b33.chunk.js.LICENSE.txt": "/LightShop/static/js/2.ff775b33.chunk.js.LICENSE.txt",
+    "static/media/707031101.8cc096ae.jpg": "/LightShop/static/media/707031101.8cc096ae.jpg",
+    "static/media/a1330lt-1ab.ead9e552.jpg": "/LightShop/static/media/a1330lt-1ab.ead9e552.jpg",
+    "static/media/a2872pn1ab.a9fa242a.jpg": "/LightShop/static/media/a2872pn1ab.a9fa242a.jpg",
+    "static/media/a390614wl.502f66f0.jpg": "/LightShop/static/media/a390614wl.502f66f0.jpg",
+    "static/media/a4001lt1go.3122ff16.jpg": "/LightShop/static/media/a4001lt1go.3122ff16.jpg",
+    "static/media/a41251wa.c7c78a55.jpg": "/LightShop/static/media/a41251wa.c7c78a55.jpg",
+    "static/media/a82844.22e2fc2f.jpg": "/LightShop/static/media/a82844.22e2fc2f.jpg",
+    "static/media/a851046703.dcf79a41.jpg": "/LightShop/static/media/a851046703.dcf79a41.jpg",
+    "static/media/c190wl02w.ef616c01.jpg": "/LightShop/static/media/c190wl02w.ef616c01.jpg",
+    "static/media/cl803012.c4edd64d.jpg": "/LightShop/static/media/cl803012.c4edd64d.jpg",
+    "static/media/lsp0333.1e49201d.jpg": "/LightShop/static/media/lsp0333.1e49201d.jpg",
+    "static/media/lsp0501.32485b98.jpg": "/LightShop/static/media/lsp0501.32485b98.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.cb52775e.js",
-    "static/js/2.d426c3b8.chunk.js",
+    "static/js/2.ff775b33.chunk.js",
     "static/css/main.2ae47eeb.chunk.css",
-    "static/js/main.85d0ea40.chunk.js"
+    "static/js/main.73b83dcb.chunk.js"
   ]
 }
